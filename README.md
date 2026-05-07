@@ -279,30 +279,23 @@ I take experimental AI concepts and turn them into **production-ready, business-
 <tr>
 <td align="center" width="25%">
 
-![](https://img.shields.io/badge/Salesforce-Certified%20Administrator-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![](https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Administrator.png)
 
 `Salesforce Certified`<br/>**Administrator**
 
 </td>
 <td align="center" width="25%">
 
-![](https://img.shields.io/badge/Salesforce-Platform%20Developer%20I-1798C1?style=for-the-badge&logo=salesforce&logoColor=white)
+![](https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MA9LY&oid=00DF0000000gZsu&lastMod=1746780949000)
 
 `Salesforce Certified`<br/>**Platform Developer I**
 
 </td>
 <td align="center" width="25%">
 
-![](https://img.shields.io/badge/Salesforce-AI%20Associate-1B96FF?style=for-the-badge&logo=salesforce&logoColor=white)
+![](https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/ai-associate.png?v=2)
 
 `Salesforce Certified`<br/>**AI Associate**
-
-</td>
-<td align="center" width="25%">
-
-![](https://img.shields.io/badge/Your%20Cert-Add%20Here-555555?style=for-the-badge&logoColor=white)
-
-`Add Your`<br/>**Certification Here**
 
 </td>
 </tr>
