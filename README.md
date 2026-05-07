@@ -79,70 +79,54 @@ I take experimental AI concepts and turn them into **production-ready, business-
 <!-- ══════════════════════  WHAT I BUILD  ══════════════════════ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:03050f,50:050f2a,100:071540&height=58&text=%F0%9F%8F%97%EF%B8%8F%20What%20I%20Build&fontSize=22&fontColor=00f0ff&animation=twinkling&fontAlignY=72" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:03050f,50:050f2a,100:071540&height=58&text=%F0%9F%8F%97%EF%B8%8F%20What%20I%20Build&fontSize=22&fontColor=00f0ff&animation=twinkling&fontAlignY=72" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%" valign="top">
+        <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:03050f,100:0a2fff&height=78&text=%F0%9F%A4%96%20AI%20Engineering&fontSize=15&fontColor=00f0ff&animation=fadeIn" width="260"/>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Enterprise%20RAG%20Systems-%230a2fff.svg?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Conversational%20AI%20Platforms-%230a2fff.svg?style=flat-square" />
+        <img src="https://img.shields.io/badge/Multi--Agent%20Orchestration-%230a2fff.svg?style=flat-square" />
+        <img src="https://img.shields.io/badge/AI%20Eval%20%26%20Benchmarking-%230a2fff.svg?style=flat-square" />
+        <img src="https://img.shields.io/badge/Embedding%20Optimization-%230a2fff.svg?style=flat-square" />
+        <img src="https://img.shields.io/badge/Semantic%20Search%20Engines-%230a2fff.svg?style=flat-square" />
+        <img src="https://img.shields.io/badge/LLM%20Observability-%230a2fff.svg?style=flat-square" />
+        <img src="https://img.shields.io/badge/Intelligent%20Doc%20Processing-%230a2fff.svg?style=flat-square" />
+      </td>
 
-<table>
-<tr>
+      <td align="center" width="33%" valign="top">
+        <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:03050f,100:005c99&height=78&text=%E2%9A%99%EF%B8%8F%20Backend%20Systems&fontSize=15&fontColor=00c8ff&animation=fadeIn" width="260"/>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Scalable%20REST%20APIs-%23005c99.svg?style=flat-square" />
+        <img src="https://img.shields.io/badge/Auth%20%26%20Authorization-%23005c99.svg?style=flat-square" />
+        <img src="https://img.shields.io/badge/Real--time%20Pipelines-%23005c99.svg?style=flat-square" />
+        <img src="https://img.shields.io/badge/Distributed%20Services-%23005c99.svg?style=flat-square" />
+        <img src="https://img.shields.io/badge/Performance%20Optimization-%23005c99.svg?style=flat-square" />
+        <img src="https://img.shields.io/badge/Low--latency%20Architecture-%23005c99.svg?style=flat-square" />
+        <img src="https://img.shields.io/badge/Database%20Design-%23005c99.svg?style=flat-square" />
+        <img src="https://img.shields.io/badge/Microservices-%23005c99.svg?style=flat-square" />
+      </td>
 
-<td align="center" width="33%">
-
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:03050f,100:0a2fff&height=78&text=%F0%9F%A4%96%20AI%20Engineering&fontSize=15&fontColor=00f0ff&animation=fadeIn" width="260"/>
-
-<br/>
-
-![](https://img.shields.io/badge/Enterprise%20RAG%20Systems-%230a2fff.svg?style=flat-square&logoColor=white)
-![](https://img.shields.io/badge/Conversational%20AI%20Platforms-%230a2fff.svg?style=flat-square)
-![](https://img.shields.io/badge/Multi--Agent%20Orchestration-%230a2fff.svg?style=flat-square)
-![](https://img.shields.io/badge/AI%20Eval%20%26%20Benchmarking-%230a2fff.svg?style=flat-square)
-![](https://img.shields.io/badge/Embedding%20Optimization-%230a2fff.svg?style=flat-square)
-![](https://img.shields.io/badge/Semantic%20Search%20Engines-%230a2fff.svg?style=flat-square)
-![](https://img.shields.io/badge/LLM%20Observability-%230a2fff.svg?style=flat-square)
-![](https://img.shields.io/badge/Intelligent%20Doc%20Processing-%230a2fff.svg?style=flat-square)
-
-</td>
-
-<td align="center" width="33%">
-
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:03050f,100:005c99&height=78&text=%E2%9A%99%EF%B8%8F%20Backend%20Systems&fontSize=15&fontColor=00c8ff&animation=fadeIn" width="260"/>
-
-<br/>
-
-![](https://img.shields.io/badge/Scalable%20REST%20APIs-%23005c99.svg?style=flat-square)
-![](https://img.shields.io/badge/Auth%20%26%20Authorization-%23005c99.svg?style=flat-square)
-![](https://img.shields.io/badge/Real--time%20Pipelines-%23005c99.svg?style=flat-square)
-![](https://img.shields.io/badge/Distributed%20Services-%23005c99.svg?style=flat-square)
-![](https://img.shields.io/badge/Performance%20Optimization-%23005c99.svg?style=flat-square)
-![](https://img.shields.io/badge/Low--latency%20Architecture-%23005c99.svg?style=flat-square)
-![](https://img.shields.io/badge/Database%20Design-%23005c99.svg?style=flat-square)
-![](https://img.shields.io/badge/Microservices-%23005c99.svg?style=flat-square)
-
-</td>
-
-<td align="center" width="33%">
-
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:03050f,100:003d6e&height=78&text=%F0%9F%8C%A9%EF%B8%8F%20Salesforce%20%26%20Ops&fontSize=15&fontColor=0af5c8&animation=fadeIn" width="260"/>
-
-<br/>
-
-![](https://img.shields.io/badge/AI--powered%20SF%20Workflows-%23003d6e.svg?style=flat-square)
-![](https://img.shields.io/badge/Lightning%20Web%20Components-%23003d6e.svg?style=flat-square)
-![](https://img.shields.io/badge/Apex%20Backend%20Logic-%23003d6e.svg?style=flat-square)
-![](https://img.shields.io/badge/Third--party%20API%20Integrations-%23003d6e.svg?style=flat-square)
-![](https://img.shields.io/badge/Flow%20Automation-%23003d6e.svg?style=flat-square)
-![](https://img.shields.io/badge/Dockerized%20Deployments-%23003d6e.svg?style=flat-square)
-![](https://img.shields.io/badge/CI%2FCD%20Pipelines-%23003d6e.svg?style=flat-square)
-![](https://img.shields.io/badge/Redis%20Caching-%23003d6e.svg?style=flat-square)
-
-</td>
-
-</tr>
-</table>
-
+      <td align="center" width="33%" valign="top">
+        <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:03050f,100:003d6e&height=78&text=%F0%9F%8C%A9%EF%B8%8F%20Salesforce%20%26%20Ops&fontSize=15&fontColor=0af5c8&animation=fadeIn" width="260"/>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/AI--powered%20SF%20Workflows-%23003d6e.svg?style=flat-square" />
+        <img src="https://img.shields.io/badge/Lightning%20Web%20Components-%23003d6e.svg?style=flat-square" />
+        <img src="https://img.shields.io/badge/Apex%20Backend%20Logic-%23003d6e.svg?style=flat-square" />
+        <img src="https://img.shields.io/badge/Third--party%20API%20Integrations-%23003d6e.svg?style=flat-square" />
+        <img src="https://img.shields.io/badge/Flow%20Automation-%23003d6e.svg?style=flat-square" />
+        <img src="https://img.shields.io/badge/Dockerized%20Deployments-%23003d6e.svg?style=flat-square" />
+        <img src="https://img.shields.io/badge/CI%2FCD%20Pipelines-%23003d6e.svg?style=flat-square" />
+        <img src="https://img.shields.io/badge/Redis%20Caching-%23003d6e.svg?style=flat-square" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:071540,100:03050f&height=3" width="100%"/>
