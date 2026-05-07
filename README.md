@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03050f,30:0a2fff,70:00f0ff,100:0af5c8&height=220&section=header&text=Goutham%20Reddy%20S&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Salesforce%20Developer%20%7C%20Full%20Stack&descAlignY=60&descSize=18&descColor=00f0ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03050f,25:050d28,60:0a2fff,85:00c8ff,100:0af5c8&height=230&section=header&text=Goutham%20Reddy%20S&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Salesforce%20Developer%20%E2%80%A2%20Full%20Stack&descAlignY=62&descSize=18&descColor=00f0ff" width="100%"/>
 
 </div>
 
-<br/>
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=860&lines=Building+Production-Grade+AI+Systems+%F0%9F%A4%96;RAG+%2B+LLM+Infrastructure+Specialist+%F0%9F%A7%A0;Multi-Agent+Orchestration+%26+AI+Evaluation+%F0%9F%94%8E;Enterprise+Salesforce+%2B+AI+Integrations+%E2%9A%A1;Cloud+Native+Backend+Engineer+%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=800&color=00F0FF&center=true&vCenter=true&width=880&lines=Building+Production-Grade+AI+Systems+%F0%9F%A4%96;RAG+%2B+LLM+Infrastructure+Specialist+%F0%9F%A7%A0;Multi-Agent+Orchestration+%26+AI+Evaluation+%F0%9F%94%8E;Enterprise+Salesforce+%2B+AI+Integrations+%E2%9A%A1;Cloud+Native+Backend+Engineer+%E2%98%81%EF%B8%8F;Generative+AI+%7C+DevOps+%7C+Automation+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -22,47 +20,303 @@
 
 </div>
 
+<br/>
+
 ---
 
-## ⚡ About Me
+<!-- ══════════════════════  ABOUT ME  ══════════════════════ -->
 
-<img align="right" alt="coding gif" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius:12px; margin-left:24px;"/>
-
-```yaml
-name: Goutham Reddy S
-location: Bengaluru, India
-role:
-  - AI Engineer
-  - Salesforce Developer
-  - Full Stack Developer
-
-specialization:
-  - Generative AI & RAG Pipelines
-  - LLM Evaluation & AI Observability
-  - Multi-Agent Orchestration
-  - Enterprise Backend Systems
-  - Salesforce AI Integrations
-  - Cloud Infrastructure & DevOps
-
-currently_building:
-  - Production-grade AI systems
-  - AI observability & evaluation tooling
-  - Intelligent document processing
-  - LLM optimization pipelines
-
-philosophy: >
-  Great software lives where intelligent systems,
-  scalable infrastructure, and practical business
-  impact intersect.
-```
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:03050f,50:050f2a,100:071540&height=58&text=%E2%9A%A1%20About%20Me&fontSize=22&fontColor=00f0ff&animation=twinkling&fontAlignY=72" width="100%"/>
+</div>
 
 <br/>
 
-> 🤖 **Production-ready AI** · 🧠 **LLM orchestration & evaluation** · 🔎 **High-performance RAG** · ☁️ **Cloud infrastructure** · ⚡ **Enterprise Salesforce** · 📊 **AI observability**
+<table>
+<tr>
+<td width="55%" valign="top">
 
-<br clear="right"/>
+### 👤 Who Am I?
+
+I'm a **Computer Science Engineer** from Bengaluru, India — building intelligent systems at the intersection of **Generative AI**, scalable backend architecture, and enterprise **Salesforce development**.
+
+I focus on things that matter in production, not just on paper:
+- 🤖 **AI Engineering** — RAG pipelines, LLM orchestration, multi-agent systems that ship
+- ⚡ **Backend Architecture** — high-throughput APIs, distributed systems, low-latency design
+- 🌩️ **Salesforce Development** — Apex, LWC, AI integrations, enterprise automation
+- ☁️ **Cloud & DevOps** — Docker, AWS, CI/CD, observability pipelines
+
+I take experimental AI concepts and turn them into **production-ready, business-grade systems**.
+
+<br/>
+
+| 🗺️ Location | Bengaluru, India |
+|---|---|
+| 🎓 Background | Computer Science Engineering |
+| 💼 Open To | Full-time · Freelance · Consulting |
+| 🌱 Currently Exploring | Agentic AI · LLM Evaluation · Agentforce |
+| ⚡ Core Belief | Deploy beats Demo |
+
+</td>
+<td width="45%" align="center" valign="top">
+
+<img alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+<br/><br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2800&pause=1000&color=0AF5C8&center=true&vCenter=true&width=300&lines=%E2%96%B8+RAG+pipelines+that+work+in+prod;%E2%96%B8+LLMs+you+can+actually+measure;%E2%96%B8+Salesforce+%2B+AI+%3D+real+ROI;%E2%96%B8+Deploy+%3E+Demo)](https://git.io/typing-svg)
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:071540,100:03050f&height=3" width="100%"/>
+
+<br/>
 
 ---
+
+<!-- ══════════════════════  WHAT I BUILD  ══════════════════════ -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:03050f,50:050f2a,100:071540&height=58&text=%F0%9F%8F%97%EF%B8%8F%20What%20I%20Build&fontSize=22&fontColor=00f0ff&animation=twinkling&fontAlignY=72" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:03050f,100:0a2fff&height=78&text=%F0%9F%A4%96%20AI%20Engineering&fontSize=15&fontColor=00f0ff&animation=fadeIn" width="260"/>
+
+<br/>
+
+![](https://img.shields.io/badge/Enterprise%20RAG%20Systems-%230a2fff.svg?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Conversational%20AI%20Platforms-%230a2fff.svg?style=flat-square)
+![](https://img.shields.io/badge/Multi--Agent%20Orchestration-%230a2fff.svg?style=flat-square)
+![](https://img.shields.io/badge/AI%20Eval%20%26%20Benchmarking-%230a2fff.svg?style=flat-square)
+![](https://img.shields.io/badge/Embedding%20Optimization-%230a2fff.svg?style=flat-square)
+![](https://img.shields.io/badge/Semantic%20Search%20Engines-%230a2fff.svg?style=flat-square)
+![](https://img.shields.io/badge/LLM%20Observability-%230a2fff.svg?style=flat-square)
+![](https://img.shields.io/badge/Intelligent%20Doc%20Processing-%230a2fff.svg?style=flat-square)
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:03050f,100:005c99&height=78&text=%E2%9A%99%EF%B8%8F%20Backend%20Systems&fontSize=15&fontColor=00c8ff&animation=fadeIn" width="260"/>
+
+<br/>
+
+![](https://img.shields.io/badge/Scalable%20REST%20APIs-%23005c99.svg?style=flat-square)
+![](https://img.shields.io/badge/Auth%20%26%20Authorization-%23005c99.svg?style=flat-square)
+![](https://img.shields.io/badge/Real--time%20Pipelines-%23005c99.svg?style=flat-square)
+![](https://img.shields.io/badge/Distributed%20Services-%23005c99.svg?style=flat-square)
+![](https://img.shields.io/badge/Performance%20Optimization-%23005c99.svg?style=flat-square)
+![](https://img.shields.io/badge/Low--latency%20Architecture-%23005c99.svg?style=flat-square)
+![](https://img.shields.io/badge/Database%20Design-%23005c99.svg?style=flat-square)
+![](https://img.shields.io/badge/Microservices-%23005c99.svg?style=flat-square)
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:03050f,100:003d6e&height=78&text=%F0%9F%8C%A9%EF%B8%8F%20Salesforce%20%26%20Ops&fontSize=15&fontColor=0af5c8&animation=fadeIn" width="260"/>
+
+<br/>
+
+![](https://img.shields.io/badge/AI--powered%20SF%20Workflows-%23003d6e.svg?style=flat-square)
+![](https://img.shields.io/badge/Lightning%20Web%20Components-%23003d6e.svg?style=flat-square)
+![](https://img.shields.io/badge/Apex%20Backend%20Logic-%23003d6e.svg?style=flat-square)
+![](https://img.shields.io/badge/Third--party%20API%20Integrations-%23003d6e.svg?style=flat-square)
+![](https://img.shields.io/badge/Flow%20Automation-%23003d6e.svg?style=flat-square)
+![](https://img.shields.io/badge/Dockerized%20Deployments-%23003d6e.svg?style=flat-square)
+![](https://img.shields.io/badge/CI%2FCD%20Pipelines-%23003d6e.svg?style=flat-square)
+![](https://img.shields.io/badge/Redis%20Caching-%23003d6e.svg?style=flat-square)
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:071540,100:03050f&height=3" width="100%"/>
+
+<br/>
+
+---
+
+<!-- ══════════════════════  CURRENT FOCUS  ══════════════════════ -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:03050f,50:050f2a,100:071540&height=58&text=%F0%9F%94%A5%20Current%20Focus&fontSize=22&fontColor=00f0ff&animation=twinkling&fontAlignY=72" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2200&pause=500&color=0AF5C8&center=true&vCenter=true&width=720&lines=%5BAI%5D+Hybrid+RAG+%E2%80%94+dense+%2B+sparse+retrieval+%2B+re-ranking;%5BAI%5D+LLM+eval+with+RAGAS+%2C+LangSmith%2C+custom+frameworks;%5BAI%5D+AI+observability+%E2%80%94+tracing+latency+%26+drift+detection;%5BAI%5D+Agentic+workflows+%E2%80%94+ReAct+%2C+Plan-and-Execute+patterns;%5BBackend%5D+Event-driven+architecture+%26+CQRS+patterns;%5BSalesforce%5D+Agentforce+%26+Einstein+Copilot+development)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+
+**🧠 AI Engineering**
+
+| Area | Active Work |
+|------|-------------|
+| Retrieval | Hybrid RAG · HyDE · Re-ranking |
+| Evaluation | RAGAS · LangSmith · custom evals |
+| Agents | ReAct · Plan-Execute · tool-use |
+| Observability | Tracing · drift · cost tracking |
+| Embeddings | Chunking strategies · fine-tuning |
+| Prompting | System prompt design · CoT · few-shot |
+
+</td>
+<td width="33%" valign="top" align="center">
+
+**⚡ Backend & Systems**
+
+| Area | Active Work |
+|------|-------------|
+| APIs | Async FastAPI · versioning · docs |
+| Architecture | Event-driven · CQRS · pub-sub |
+| Caching | Redis strategies · TTL · eviction |
+| Databases | PostgreSQL · indexing · EXPLAIN |
+| Performance | Profiling · load testing · p99 |
+| Security | JWT · OAuth2 · rate limiting |
+
+</td>
+<td width="33%" valign="top" align="center">
+
+**🌩️ Salesforce**
+
+| Area | Active Work |
+|------|-------------|
+| AI | Agentforce · Einstein Copilot |
+| Platform | LWC perf · Apex bulkify patterns |
+| Automation | Complex flows · batch Apex |
+| Integration | REST/SOAP · platform events |
+| Data | SOQL tuning · big object strategy |
+| DevOps | SFDX · scratch orgs · pipelines |
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:071540,100:03050f&height=3" width="100%"/>
+
+<br/>
+
+---
+
+<!-- ══════════════════════  TECH STACK  ══════════════════════ -->
+
+## 🚀 Tech Stack
+
+<div align="center">
+
+### 👨‍💻 Languages
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,bash&theme=dark" />
+
+### 🤖 AI & Machine Learning
+![OpenAI](https://img.shields.io/badge/OpenAI-0A0A0A?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logoColor=00f0ff)
+![RAG](https://img.shields.io/badge/RAG%20Systems-006400?style=for-the-badge&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-6E40C9?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-F55B27?style=for-the-badge)
+![RAGAS](https://img.shields.io/badge/RAGAS-2962FF?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=000)
+![Prompt Eng](https://img.shields.io/badge/Prompt%20Engineering-FF9800?style=for-the-badge)
+![Multi-Agent](https://img.shields.io/badge/Multi--Agent%20Systems-FF1744?style=for-the-badge)
+
+### ⚡ Backend & Full Stack
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,flask,react,postgresql,redis,tailwind&theme=dark" />
+
+### ☁️ DevOps & Infrastructure
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,nginx,git,github&theme=dark" />
+
+### 🌩️ Salesforce Ecosystem
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Apex](https://img.shields.io/badge/Apex-1798C1?style=for-the-badge&logo=salesforce&logoColor=white)
+![LWC](https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Einstein](https://img.shields.io/badge/Einstein%20AI-1B96FF?style=for-the-badge&logo=salesforce&logoColor=white)
+![Agentforce](https://img.shields.io/badge/Agentforce-032D60?style=for-the-badge&logo=salesforce&logoColor=white)
+![Flow](https://img.shields.io/badge/Flow%20Builder-0176D3?style=for-the-badge&logo=salesforce&logoColor=white)
+
+</div>
+
+---
+
+<!-- ══════════════════════  CERTIFICATIONS  ══════════════════════ -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:03050f,50:050f2a,100:071540&height=58&text=%F0%9F%8F%85%20Certifications%20%26%20Credentials&fontSize=22&fontColor=00f0ff&animation=twinkling&fontAlignY=72" width="100%"/>
+</div>
+
+<br/>
+
+> **📌 Replace the placeholders below with your actual earned certifications.**
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+![](https://img.shields.io/badge/Salesforce-Certified%20Administrator-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+
+`Salesforce Certified`<br/>**Administrator**
+
+</td>
+<td align="center" width="25%">
+
+![](https://img.shields.io/badge/Salesforce-Platform%20Developer%20I-1798C1?style=for-the-badge&logo=salesforce&logoColor=white)
+
+`Salesforce Certified`<br/>**Platform Developer I**
+
+</td>
+<td align="center" width="25%">
+
+![](https://img.shields.io/badge/Salesforce-AI%20Associate-1B96FF?style=for-the-badge&logo=salesforce&logoColor=white)
+
+`Salesforce Certified`<br/>**AI Associate**
+
+</td>
+<td align="center" width="25%">
+
+![](https://img.shields.io/badge/Your%20Cert-Add%20Here-555555?style=for-the-badge&logoColor=white)
+
+`Add Your`<br/>**Certification Here**
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:071540,100:03050f&height=3" width="100%"/>
+
+<br/>
+
+---
+
+<!-- ══════════════════════  EXPERTISE TABLE  ══════════════════════ -->
 
 ## 🧠 Core Expertise
 
@@ -78,103 +332,13 @@ philosophy: >
 | Multi-Agent Systems | Auth Systems | AWS | Einstein AI |
 | AI Observability | Distributed Systems | CI/CD | Triggers |
 | ChromaDB / Pinecone | Flask / Express | Server Mgmt | Agentforce |
+| RAGAS · LangSmith | Async Patterns | Load Balancing | Platform Events |
 
 </div>
 
 ---
 
-## 🚀 Tech Stack
-
-<div align="center">
-
-### 👨‍💻 Languages
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,bash&theme=dark" />
-
-### 🤖 AI & Machine Learning
-![OpenAI](https://img.shields.io/badge/OpenAI-0A0A0A?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=00f0ff)
-![RAG](https://img.shields.io/badge/RAG%20Pipelines-00C853?style=for-the-badge&logo=googlebrain&logoColor=white)
-![Vector DB](https://img.shields.io/badge/Vector%20Databases-8E24AA?style=for-the-badge&logo=pinecone&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-6E40C9?style=for-the-badge)
-![Prompt Eng](https://img.shields.io/badge/Prompt%20Engineering-FF9800?style=for-the-badge)
-![LLM Eval](https://img.shields.io/badge/LLM%20Evaluation-2962FF?style=for-the-badge)
-![Agents](https://img.shields.io/badge/Multi--Agent%20Systems-FF1744?style=for-the-badge)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=000)
-
-### ⚡ Backend & Full Stack
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,flask,react,postgresql,redis,tailwind&theme=dark" />
-
-### ☁️ DevOps & Infrastructure
-<img src="https://skillicons.dev/icons?i=docker,aws,linux,nginx,git,github&theme=dark" />
-
-### 🌩️ Salesforce Ecosystem
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Apex](https://img.shields.io/badge/Apex-1798C1?style=for-the-badge&logo=salesforce&logoColor=white)
-![LWC](https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Einstein](https://img.shields.io/badge/Einstein%20AI-1B96FF?style=for-the-badge&logo=salesforce&logoColor=white)
-![Flow](https://img.shields.io/badge/Flow%20Automation-0176D3?style=for-the-badge&logo=salesforce&logoColor=white)
-![Agentforce](https://img.shields.io/badge/Agentforce-032D60?style=for-the-badge&logo=salesforce&logoColor=white)
-
-</div>
-
----
-
-## 🏗️ What I Build
-
-<div align="center">
-
-```
-┌─────────────────────────┐  ┌─────────────────────────┐  ┌─────────────────────────┐
-│  🤖  AI Engineering     │  │  ⚙️  Backend Systems     │  │  🌩️  Salesforce & Ops   │
-│─────────────────────────│  │─────────────────────────│  │─────────────────────────│
-│  ► Enterprise RAG        │  │  ► Scalable REST APIs    │  │  ► AI-powered Workflows  │
-│  ► Conversational AI     │  │  ► Auth & AuthZ systems  │  │  ► Lightning Web Comps   │
-│  ► Multi-Agent Orch.     │  │  ► Real-time pipelines   │  │  ► Apex backend logic    │
-│  ► AI Eval Benchmarks    │  │  ► Distributed services  │  │  ► Third-party API integ │
-│  ► Semantic Search       │  │  ► Low-latency arch.     │  │  ► Salesforce Flows      │
-│  ► LLM Observability     │  │  ► DB optimization       │  │  ► Dockerized deploys    │
-│  ► Doc Intelligence      │  │  ► Microservices         │  │  ► CI/CD automation      │
-└─────────────────────────┘  └─────────────────────────┘  └─────────────────────────┘
-```
-
-</div>
-
----
-
-## 🔥 Current Focus
-
-<div align="center">
-
-```python
-class CurrentFocus:
-
-    AI_Engineering = [
-        "RAG optimization & hybrid retrieval",
-        "LLM evaluation frameworks (RAGAS, LangSmith)",
-        "AI observability & tracing pipelines",
-        "Agentic workflows & tool-use patterns",
-        "Advanced prompt engineering techniques",
-        "Embedding model fine-tuning"
-    ]
-
-    Backend = [
-        "Scalable API design patterns",
-        "Event-driven architecture",
-        "Advanced Redis caching strategies",
-        "Low-latency distributed systems"
-    ]
-
-    Salesforce = [
-        "Agentforce development",
-        "Salesforce AI (Einstein) integrations",
-        "LWC performance optimization",
-        "Enterprise automation at scale"
-    ]
-```
-
-</div>
-
----
+<!-- ══════════════════════  GITHUB STATS  ══════════════════════ -->
 
 ## 📊 GitHub Analytics
 
@@ -193,7 +357,7 @@ class CurrentFocus:
 
 ---
 
-## 🏆 Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -233,4 +397,6 @@ class CurrentFocus:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0af5c8,30:00f0ff,70:0a2fff,100:03050f&height=140&section=footer" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0af5c8,30:00c8ff,65:0a2fff,85:040c20,100:03050f&height=150&section=footer" width="100%"/>
