@@ -266,46 +266,53 @@ I take experimental AI concepts and turn them into **production-ready, business-
 <!-- ══════════════════════  CERTIFICATIONS  ══════════════════════ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:03050f,50:050f2a,100:071540&height=58&text=%F0%9F%8F%85%20Certifications%20%26%20Credentials&fontSize=22&fontColor=00f0ff&animation=twinkling&fontAlignY=72" width="100%"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&lines=🏅+Certifications+%26+Credentials" />
+
 </div>
 
 <br/>
-
-> **📌 Replace the placeholders below with your actual earned certifications.**
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="25%">
 
-![](https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Administrator.png)
+<td align="center" width="33%">
 
-`Salesforce Certified`<br/>**Administrator**
+<img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Administrator.png" width="120"/>
 
-</td>
-<td align="center" width="25%">
-
-![](https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MA9LY&oid=00DF0000000gZsu&lastMod=1746780949000)
-
-`Salesforce Certified`<br/>**Platform Developer I**
+### Salesforce Certified  
+## Administrator
 
 </td>
-<td align="center" width="25%">
 
-![](https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/ai-associate.png?v=2)
+<td align="center" width="33%">
 
-`Salesforce Certified`<br/>**AI Associate**
+<img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Platform-Developer-I.png" width="120"/>
+
+### Salesforce Certified  
+## Platform Developer I
 
 </td>
+
+<td align="center" width="33%">
+
+<img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/ai-associate.png?v=2" width="120"/>
+
+### Salesforce Certified  
+## AI Associate
+
+</td>
+
 </tr>
 </table>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:071540,100:03050f&height=3" width="100%"/>
-
 <br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212897782-96581576-8b87-4f08-9f8d-4747ab64e5f5.gif" width="100%"/>
 
 ---
 
@@ -375,9 +382,9 @@ I take experimental AI concepts and turn them into **production-ready, business-
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-gouthamgovardhan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gouthamgovardhan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/goutham-govardhan/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/gouthamgovardhan)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gouthamgovardhan@hotmail.com)
 
 </div>
 
