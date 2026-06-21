@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:100d12,24:211825,52:6366f1,76:22d3ee,100:4ade80&height=200&section=header&text=Goutham%20Reddy%20S&fontSize=52&fontColor=fff7ed&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Salesforce%20Developer%20%E2%80%A2%20Backend%20Builder&descAlignY=58&descSize=16&descColor=22d3ee" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:100d12,24:211825,52:6366f1,76:22d3ee,100:4ade80&height=190&section=header&text=Goutham%20Reddy%20S&fontSize=50&fontColor=fff7ed&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Salesforce%20Developer%20%E2%80%A2%20Backend%20Builder&descAlignY=58&descSize=16&descColor=22d3ee" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=800&color=22D3EE&center=true&vCenter=true&width=760&lines=Building+AI+workflows+that+ship;RAG+%2B+Agentforce+%2B+Backend+systems;Salesforce+automation+with+real+business+use;FastAPI%2C+LLMs%2C+retrieval%2C+and+workflow+logic)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=680&lines=Building+AI+workflows+that+ship;RAG+%2B+Agentforce+%2B+Backend+systems;Salesforce+automation+with+real+business+use;FastAPI%2C+LLMs%2C+retrieval%2C+workflow+logic)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6366F1?style=for-the-badge&logo=firefox&logoColor=white)](https://gouthamgovardhan.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/goutham-govardhan)
@@ -15,29 +15,23 @@
 
 ## About Me
 
-I am a Computer Science Engineer from Bengaluru, India, building at the overlap of **AI engineering**, **Salesforce automation**, and **backend systems**.
+I am a Computer Science Engineer from Bengaluru, India, building at the overlap of **AI engineering**, **Salesforce automation**, and **backend systems**. I like turning promising AI demos into workflows that people can actually use: grounded retrieval, clean APIs, logs, fallbacks, and the operational details that keep software trustworthy after launch.
 
-I care about AI that leaves the demo stage and becomes a usable workflow: retrieval, evaluation, backend APIs, logs, fallbacks, and the operational details that make software trustworthy after launch.
+<div align="center">
 
-| | |
-|---|---|
-| Location | Bengaluru, Karnataka, India |
-| Current Role | Software Engineer, AI + Salesforce @ Visionet Systems |
-| Looking For | AI Engineer · Salesforce Developer · Backend Engineer · Software Engineer roles |
-| Best Fit | Teams building AI workflows, Salesforce automation, backend APIs, or production support systems |
-| Salesforce Proof | Agentblazer Champion 2025 · 102 Trailhead badges · 4 Superbadges |
-| Published Work | IRJMETS paper on intent classification chatbot systems |
+`Bengaluru, India` · `Software Engineer, AI + Salesforce @ Visionet Systems` · `Open to AI, Salesforce, Backend roles`
+
+</div>
 
 > Build the demo. Ship the system.
 
 ---
 
-## Currently Working On
+## Current Focus
 
-- Building production-style RAG workflows with retrieval, memory, evaluation, and fallback handling
-- Deepening Agentforce, Prompt Builder, Flow Builder, Apex, and LWC skills through hands-on Salesforce work
-- Improving backend API design with FastAPI, Python services, Docker, and database-backed workflows
-- Turning AI prototypes into observable, testable, and supportable systems
+- Production-style RAG workflows with retrieval, memory, evaluation, and fallback handling
+- Agentforce, Prompt Builder, Flow Builder, Apex, LWC, and Salesforce service automation
+- FastAPI services, Dockerized backends, database-backed workflows, and API integrations
 
 ---
 
@@ -91,17 +85,31 @@ I care about AI that leaves the demo stage and becomes a usable workflow: retrie
 
 ## Featured Work
 
-| Project | What It Shows | Stack | Proof |
-|---|---|---|---|
-| AI Wellness Support Chatbot | Built a local RAG chatbot with Ollama/LLaMA orchestration, MongoDB-backed conversation memory, retrieval flow, and support-focused response logic | LLaMA, Ollama, RAG, MongoDB, Python | Architecture summary available on request |
-| AI Service Recommendation System | Converted user intent into service suggestions using prompt design, API-backed workflow logic, structured decision paths, and backend integration | OpenAI API, Python, REST APIs | Case study available on request |
-| Fake News Detection System | Created an end-to-end NLP classification pipeline with preprocessing, sequence modeling, training flow, and prediction logic | NLP, LSTM, Python | Project walkthrough available on request |
+### AI Wellness Support Chatbot
+
+Built a local RAG chatbot with Ollama/LLaMA orchestration, MongoDB-backed conversation memory, retrieval flow, and support-focused response logic.
+
+`LLaMA` `Ollama` `RAG` `MongoDB` `Python`
+
+### AI Service Recommendation System
+
+Converted user intent into service suggestions using prompt design, API-backed workflow logic, structured decision paths, and backend integration.
+
+`OpenAI API` `Python` `REST APIs` `Workflow Logic`
+
+### Fake News Detection System
+
+Created an end-to-end NLP classification pipeline with preprocessing, sequence modeling, training flow, and prediction logic.
+
+`NLP` `LSTM` `Python` `Text Classification`
 
 > Some enterprise/internal build notes are private, but architecture summaries are available on request.
 
 ---
 
 ## Architecture Snapshot
+
+The systems I enjoy building usually look like this:
 
 ```mermaid
 flowchart LR
@@ -116,37 +124,21 @@ flowchart LR
     H --> I[Logs and Iteration Notes]
 ```
 
-This is the kind of workflow I like building: not only the model call, but the surrounding system that makes the result useful, traceable, and easier to improve.
+Not just the model call: the surrounding system that makes the result useful, traceable, and easier to improve.
 
 ---
 
 ## Credentials & Proof
 
-### Salesforce Trailhead
-
-| Metric | Status |
-|---|---:|
-| Trailhead Badges | 102 |
-| Trailhead Points | 58,450 |
-| Trails | 13 |
-| Superbadges | 4 |
-| Agentblazer Status | Champion 2025 |
-
-Superbadges:
-
+- Agentblazer Champion 2025
+- 102 Trailhead badges, 58,450 points, 13 trails, and 4 Superbadges
 - Agentforce Service
 - Prompt Builder Templates
 - Case Lifecycle Superbadge Unit
 - Financial Services Cloud Specialist
-
-Profile: [Salesforce Trailblazer](https://www.salesforce.com/trailblazer/gouthamgovardhan)
-
-### Additional Proof
-
-- Agentblazer Champion 2025
-- 4 Salesforce Superbadges across Agentforce, Prompt Builder, Case Lifecycle, and Financial Services Cloud
 - Published NLP/chatbot research with DOI
-- Portfolio, GitHub projects, and architecture summaries for public-facing work
+
+[Salesforce Trailblazer](https://www.salesforce.com/trailblazer/gouthamgovardhan)
 
 ---
 
@@ -184,8 +176,8 @@ Profile: [Salesforce Trailblazer](https://www.salesforce.com/trailblazer/goutham
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=gouthamgovardhan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=100d12&title_color=22d3ee&icon_color=6366f1&text_color=fff7ed&ring_color=6366f1"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouthamgovardhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=100d12&title_color=22d3ee&text_color=fff7ed&langs_count=8"/>
+<img width="420" src="https://github-readme-stats.vercel.app/api?username=gouthamgovardhan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=100d12&title_color=22d3ee&icon_color=6366f1&text_color=fff7ed&ring_color=6366f1"/>
+<img width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouthamgovardhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=100d12&title_color=22d3ee&text_color=fff7ed&langs_count=8"/>
 
 </div>
 
@@ -202,3 +194,5 @@ Profile: [Salesforce Trailblazer](https://www.salesforce.com/trailblazer/goutham
 [Email](mailto:gouthamgovardhan@hotmail.com)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ade80,24:22d3ee,52:6366f1,76:211825,100:100d12&height=90&section=footer" width="100%"/>
