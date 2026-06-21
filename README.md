@@ -23,11 +23,21 @@ I care about AI that leaves the demo stage and becomes a usable workflow: retrie
 |---|---|
 | Location | Bengaluru, Karnataka, India |
 | Current Role | Software Engineer, AI + Salesforce @ Visionet Systems |
-| Open To | AI Engineer · Salesforce Developer · Backend Engineer · Software Engineer roles |
+| Looking For | AI Engineer · Salesforce Developer · Backend Engineer · Software Engineer roles |
+| Best Fit | Teams building AI workflows, Salesforce automation, backend APIs, or production support systems |
 | Salesforce Proof | Agentblazer Champion 2025 · 102 Trailhead badges · 4 Superbadges |
 | Published Work | IRJMETS paper on intent classification chatbot systems |
 
 > Build the demo. Ship the system.
+
+---
+
+## Currently Working On
+
+- Building production-style RAG workflows with retrieval, memory, evaluation, and fallback handling
+- Deepening Agentforce, Prompt Builder, Flow Builder, Apex, and LWC skills through hands-on Salesforce work
+- Improving backend API design with FastAPI, Python services, Docker, and database-backed workflows
+- Turning AI prototypes into observable, testable, and supportable systems
 
 ---
 
@@ -45,7 +55,8 @@ I care about AI that leaves the demo stage and becomes a usable workflow: retrie
 
 - RAG chat workflows with retrieval, memory, and evaluation-minded iteration
 - LLM-powered service recommendation and decision-support workflows
-- Prompt design, model behavior checks, and practical AI quality loops
+- Prompt design, model behavior checks, grounding checks, and practical AI quality loops
+- Local and API-backed LLM workflows using Ollama, OpenAI, LangChain, RAGAS, and LangSmith
 
 ### Salesforce Development
 
@@ -58,7 +69,8 @@ I care about AI that leaves the demo stage and becomes a usable workflow: retrie
 
 - Apex, LWC, Flow Builder, SOQL/SOSL, Service Cloud, Email-to-Case, and Omni-Channel work
 - Agentforce and Prompt Builder learning with hands-on Trailhead proof
-- Salesforce workflows connected to backend services and AI-assisted processes
+- Salesforce workflows connected to backend services, automation layers, and AI-assisted processes
+- Case management, service automation, and business workflow customization
 
 ### Backend Systems
 
@@ -73,22 +85,44 @@ I care about AI that leaves the demo stage and becomes a usable workflow: retrie
 - REST API integrations and backend automation services
 - Data-backed workflows using MongoDB, MySQL, and Python services
 - Practical debugging, release validation, and production issue resolution
+- Dockerized services, Linux-based development, environment configuration, and deployment-minded delivery
 
 ---
 
 ## Featured Work
 
-| Project | What It Shows | Stack |
-|---|---|---|
-| AI Wellness Support Chatbot | RAG workflow with local LLaMA/Ollama orchestration and MongoDB memory | LLaMA, Ollama, RAG, MongoDB |
-| AI Service Recommendation System | Converts user intent into service suggestions with API-backed workflow logic | OpenAI API, Python, REST APIs |
-| Fake News Detection System | End-to-end NLP classification pipeline using LSTM and preprocessing | NLP, LSTM, Python |
+| Project | What It Shows | Stack | Proof |
+|---|---|---|---|
+| AI Wellness Support Chatbot | Built a local RAG chatbot with Ollama/LLaMA orchestration, MongoDB-backed conversation memory, retrieval flow, and support-focused response logic | LLaMA, Ollama, RAG, MongoDB, Python | Architecture summary available on request |
+| AI Service Recommendation System | Converted user intent into service suggestions using prompt design, API-backed workflow logic, structured decision paths, and backend integration | OpenAI API, Python, REST APIs | Case study available on request |
+| Fake News Detection System | Created an end-to-end NLP classification pipeline with preprocessing, sequence modeling, training flow, and prediction logic | NLP, LSTM, Python | Project walkthrough available on request |
 
 > Some enterprise/internal build notes are private, but architecture summaries are available on request.
 
 ---
 
-## Salesforce Trailhead Proof
+## Architecture Snapshot
+
+```mermaid
+flowchart LR
+    A[User Request] --> B[API or Chat Interface]
+    B --> C[Intent and Context Handling]
+    C --> D[Retrieval Layer]
+    D --> E[(Knowledge Base / MongoDB)]
+    C --> F[LLM / Agent Workflow]
+    E --> F
+    F --> G[Quality Checks and Fallbacks]
+    G --> H[Response / Salesforce Workflow / Backend Action]
+    H --> I[Logs and Iteration Notes]
+```
+
+This is the kind of workflow I like building: not only the model call, but the surrounding system that makes the result useful, traceable, and easier to improve.
+
+---
+
+## Credentials & Proof
+
+### Salesforce Trailhead
 
 | Metric | Status |
 |---|---:|
@@ -105,6 +139,15 @@ Superbadges:
 - Case Lifecycle Superbadge Unit
 - Financial Services Cloud Specialist
 
+Profile: [Salesforce Trailblazer](https://www.salesforce.com/trailblazer/gouthamgovardhan)
+
+### Additional Proof
+
+- Agentblazer Champion 2025
+- 4 Salesforce Superbadges across Agentforce, Prompt Builder, Case Lifecycle, and Financial Services Cloud
+- Published NLP/chatbot research with DOI
+- Portfolio, GitHub projects, and architecture summaries for public-facing work
+
 ---
 
 ## Published Work
@@ -113,8 +156,17 @@ Superbadges:
 
 - Journal: International Research Journal of Modernization in Engineering Technology and Science (IRJMETS)
 - Published: 20 Jan 2024
-- DOI: `10.56726/IRJMETS48292`
+- DOI: [`10.56726/IRJMETS48292`](https://doi.org/10.56726/IRJMETS48292)
 - Focus: deep learning, NLP, chatbot design, intent classification, and agricultural support workflows
+
+---
+
+## Deployment & Operations
+
+- Build backend services with practical API boundaries, validation, and environment-aware configuration
+- Work with Docker, Linux, Git/GitHub, database connections, and release validation habits
+- Care about logs, error handling, fallbacks, and supportability after a workflow ships
+- Prefer small, testable service pieces that can connect cleanly to Salesforce, AI workflows, and external APIs
 
 ---
 
@@ -143,9 +195,10 @@ Superbadges:
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-gouthamgovardhan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gouthamgovardhan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-goutham--govardhan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/goutham-govardhan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-gouthamgovardhan.github.io-6366F1?style=for-the-badge&logo=firefox&logoColor=white)](https://gouthamgovardhan.github.io/portfolio/)
-[![Email](https://img.shields.io/badge/Email-gouthamgovardhan%40hotmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gouthamgovardhan@hotmail.com)
+[GitHub](https://github.com/gouthamgovardhan) ·
+[LinkedIn](https://linkedin.com/in/goutham-govardhan) ·
+[Portfolio](https://gouthamgovardhan.github.io/portfolio/) ·
+[Trailblazer](https://www.salesforce.com/trailblazer/gouthamgovardhan) ·
+[Email](mailto:gouthamgovardhan@hotmail.com)
 
 </div>
