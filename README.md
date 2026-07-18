@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:100d12,28:211825,55:6366f1,78:22d3ee,100:4ade80&height=190&section=header&text=Goutham%20Reddy%20S&fontSize=50&fontColor=fff7ed&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%26%20Systems%20Builder%20%E2%80%A2%20Salesforce%20Consultant&descAlignY=58&descSize=16&descColor=22d3ee" width="100%" alt="Goutham Reddy S — AI Engineer and Systems Builder" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:100d12,28:211825,55:6366f1,78:22d3ee,100:4ade80&height=190&section=header&text=Goutham%20Reddy%20S&fontSize=50&fontColor=fff7ed&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Systems%20Builder%20%E2%80%A2%20Salesforce%20Consultant&descAlignY=58&descSize=16&descColor=22d3ee" width="100%" alt="Goutham Reddy S — AI Engineer and Systems Builder" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=720&lines=LLMs+%2B+RAG+%2B+Agentic+AI;Python+%2B+FastAPI+%2B+Production+APIs;Salesforce+%2B+Apex+%2B+LWC+%2B+Flow;From+intelligent+workflow+to+reliable+system)](https://git.io/typing-svg)
 
